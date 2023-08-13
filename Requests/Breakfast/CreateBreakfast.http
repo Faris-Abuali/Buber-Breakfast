@@ -1,0 +1,22 @@
+POST http://localhost:5029/breakfasts
+Content-Type: application/json
+
+{
+    "name": "Vegan",
+    "description": "Vegan everything! Join us for a healthy breakfast..",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "savory": [
+        "Oatmeal",
+        "Avocado Toast",
+        "Omelette",
+        "Salad"
+    ],
+    "Sweet": [
+        "Cookie"
+    ]
+}
+
+###
+
+GET http://localhost:5029/Breakfasts/49c21bd3-4896-4495-ad8a-284dadcf5f1a
