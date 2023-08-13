@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\csharp\\Buber-Breakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\csharp\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\csharp\\Buber-Breakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\csharp\\Buber-Breakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "C:\\csharp\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "C:\\csharp\\Buber-Breakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\csharp\\Buber-Breakfast\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

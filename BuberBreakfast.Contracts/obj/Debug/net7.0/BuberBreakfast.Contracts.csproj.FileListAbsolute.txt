@@ -10,3 +10,15 @@ C:\csharp\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfas
 C:\csharp\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\refint\BuberBreakfast.Contracts.dll
 C:\csharp\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.pdb
 C:\csharp\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\ref\BuberBreakfast.Contracts.dll
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.deps.json
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.dll
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\refint\BuberBreakfast.Contracts.dll
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.pdb
+C:\csharp\Buber-Breakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\ref\BuberBreakfast.Contracts.dll
